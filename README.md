@@ -3,5 +3,5 @@
 <h3> The project implements  </h3>
 #CustomListViews
 #ArrayAdapters
-#Layouinflater
+#LayoutInflater
 ...and more features
